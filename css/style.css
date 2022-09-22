@@ -1,0 +1,13 @@
+/* Import font form fonts.css file */
+@import url(./fonts.css);
+.simple{
+    margin: 2px;
+    text-align: right ;
+    background-color: rgb(102, 102, 102);
+    border-radius: 20px; 
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center !important;
+    color: white;
+
+}
